@@ -5,7 +5,8 @@ This Power BI Report is based on a dataset containing sales, products, brands, s
 
 #Key Features
 
-- Showcase the top 30 products by sales and returns.  
+- Showcase the top 30 products by sales and returns.
+- Top 10 products by profit.   
 - Customer insights and breakdowns.  
 - Interactive map visual showcasing sales by country.  
 - Designed usining Power BI, calculated measures and visuals.  
